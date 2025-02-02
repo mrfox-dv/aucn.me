@@ -8,6 +8,7 @@
 
 - Fork this repository
 - Add a new file called `your-domain-name.json` in the `domains` folder to register `your-domain-name.aucn.me`
+  - For structure, please refer to [this](/docs/domain-structure.md)
 - If you are applying for NS records please read [this](#ns-records).
 - Your commit message should be in the format of `Add <your-domain-name>.aucn.me`
 - Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
