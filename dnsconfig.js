@@ -1,4 +1,4 @@
-var domainName = "ldo.pics";
+var domainName = "aucn.me";
 var registrar = NewRegistrar("none");
 var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"), 0);
 
