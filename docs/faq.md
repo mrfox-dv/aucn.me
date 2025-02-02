@@ -16,7 +16,7 @@
 - URL
     - Note: These records use Cloudflare for redirection, it is not a real DNS record type.
 
-## Why does my domain still redirect to the is-a-dev website?
+## Why does my domain still redirect to the aucn.me website?
 This usually occurs due to the cache of your browser becoming invalid and [clearing your browser's cache](https://support.google.com/accounts/answer/32050) should solve this issue.
 
 ## Can I use a CNAME record with any other records?
@@ -26,7 +26,7 @@ You cannot request a subdomain nor submit changes containing a CNAME with any ot
 When we get into it. We always want you to wait for as short as possible. But maintainers cannot always be online. We have school and work, this is just a side project. Just be patient and we'll get to it as soon as possible!
 
 ## Which services do you support?
-We support nearly all services, however these are the main services people use with is-a.dev:
+We support nearly all services, however these are the main services people use with aucn.me:
 
 - Cloudflare Pages
 - GitHub Pages
@@ -79,7 +79,7 @@ As you can probably imagine, this can open the door to a lot of abuse, which is 
 
 If we could, we would delegate NS records to everyone that wanted them, however we are not in a perfect world, so unfortunately we cannot.
 
-## How can I make changes to my is-a.dev subdomain?
+## How can I make changes to my aucn.me subdomain?
 1. **Open your JSON file:** Navigate to the `domains` directory in your fork and open the JSON file corresponding to your subdomain (`domains/subdomain.json`).
 2. **Make your changes:** Edit the JSON file (or delete) to reflect the changes you want to make.
 3. **Commit your changes:** Once you've made your changes, commit them to your fork.
