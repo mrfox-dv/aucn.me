@@ -1,1 +1,12 @@
-
+{
+    "description": "alix.is-a.dev",
+    "owner": {
+        "username": "shenmeshi33",
+        "email": "shenmimln@gmail.com"
+    },
+    "record": {
+        "A": [
+            "89.106.200.1"
+        ]
+    }
+}
